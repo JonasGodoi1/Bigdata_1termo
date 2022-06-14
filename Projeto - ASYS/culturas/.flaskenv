@@ -1,0 +1,2 @@
+FLASK_APP=crawller.py
+FLASK_ENV=development
